@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayoutDimension</string>
+    <string name="btPercent">Botón al 70%</string>
+    <string name="txtExample1">Texto corto</string>
+    <string name="txtExample2">Este texto tiene una longitud considerable</string>
+    <string name="txtExample3">Este texto tiene una longitud considerable</string>
+</resources>
